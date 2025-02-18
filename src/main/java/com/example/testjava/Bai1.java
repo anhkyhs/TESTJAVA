@@ -1,6 +1,6 @@
 package com.example.testjava;
 
-public class MainTest {
+public class Bai1 {
         public static void main(String[] args) {
             int[] arr = {3, 5, 7, 2, 8, 1, 4};
             int maxValue = findMax(arr);
